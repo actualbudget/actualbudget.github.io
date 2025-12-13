@@ -4,11 +4,28 @@
         <title>Actual Budget Blog</title>
         <link>https://actualbudget.org/blog</link>
         <description>Stay updated with the latest blog posts from Actual Budget</description>
-        <lastBuildDate>Wed, 03 Dec 2025 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 11:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2025 Actual Budget. All rights reserved.</copyright>
+        <item>
+            <title><![CDATA[Welcome to Actual Budget Open Source]]></title>
+            <link>https://actualbudget.org/blog/welcome-actualbudget-os</link>
+            <guid>https://actualbudget.org/blog/welcome-actualbudget-os</guid>
+            <pubDate>Sat, 13 Dec 2025 11:45:45 GMT</pubDate>
+            <description><![CDATA[The new home for the Open Source project.]]></description>
+            <content:encoded><![CDATA[<p>As some of you may have noticed a lot of the URL's for our documentation, official test instance of Actual Budget and other parts of the project have silently been changing over the last few days, we can now give you an update on why, we have taken the decision to move everything relating to the Open Source version of Actual Budget to <a href="https://actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">actualbudget.org</a> and this takes effect across the project with immediate effect, some of the changes you will see include;</p>
+<ul>
+<li class="">Our website for Actual Budget Open Source is now available at <a href="https://actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">https://actualbudget.org</a></li>
+<li class="">Documentation now lives at <a href="https://actualbudget.org/docs" target="_blank" rel="noopener noreferrer" class="">https://actualbudget.org/docs</a></li>
+<li class="">Our demo instance of actual can be found at <a href="https://demo.actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">https://demo.actualbudget.org</a></li>
+</ul>
+<p>The website is powered by the same static site generator as the documentation, in fact it is the same instance, we have added a custom home page allowing us to continue using Docusaurus as our static site generator, the great thing about this is that is keeps everything Open Source, including all the blog posts.</p>
+<p>Talking of the blog, this change will introduce a blog feed, you can find that <a href="https://actualbudget.org/blog/rss.xml" target="_blank" rel="noopener noreferrer" class="">here</a> if you are looking for posts specific to releases you can have a look at the <a href="https://actualbudget.org/blog/tags/release" target="_blank" rel="noopener noreferrer" class="">release tag</a> historical releases will be added as posts over the coming days.</p>]]></content:encoded>
+            <category>announcement</category>
+            <category>coreproject</category>
+        </item>
         <item>
             <title><![CDATA[Release 25.12.0]]></title>
             <link>https://actualbudget.org/blog/release-25.12.0</link>
@@ -1550,56 +1567,6 @@ We’re listening — and we’ll publish a summary of the feedback before movin
 </ul>]]></content:encoded>
             <category>announcement</category>
             <category>release</category>
-        </item>
-        <item>
-            <title><![CDATA[Roadmap for 2025]]></title>
-            <link>https://actualbudget.org/blog/roadmap-for-2025</link>
-            <guid>https://actualbudget.org/blog/roadmap-for-2025</guid>
-            <pubDate>Thu, 02 Jan 2025 10:00:00 GMT</pubDate>
-            <description><![CDATA[Actual Budget is a powerful and open-source tool for managing personal finances. In this article - I recount my personal experience transitioning from YNAB to Actual and how I helped to build the community of volunteers. We also briefly talk about plans for 2025 and I address some frequent statements seen on the internet.]]></description>
-            <content:encoded><![CDATA[<p>Actual Budget is a powerful and open-source tool for managing personal finances. In this article - I recount my personal experience transitioning from YNAB to Actual and how I helped to build the community of volunteers. We also briefly talk about plans for 2025 and I address some frequent statements seen on the internet.</p>
-<h2 class="anchor anchorTargetStickyNavbar_SAay" id="my-journey-to-actual-budget">My Journey to Actual Budget<a href="https://actualbudget.org/blog/roadmap-for-2025#my-journey-to-actual-budget" class="hash-link" aria-label="Direct link to My Journey to Actual Budget" title="Direct link to My Journey to Actual Budget" translate="no">​</a></h2>
-<p>Over a decade ago I began my personal finance journey. Tried various different products and budgeting methodologies available at the time, but nothing really stuck. Until I found YNAB. Finally, something that helped me create and stick to a budget, and the community was really helpful as well. It felt great. I was one of their old-time customers on the "legacy" plan which did not see the price increases. That is - until 2021 when the trust of old-time customers was broken and we saw almost a 100% price increase. Even though the product was amazing - I could not justify spending as much of my disposable income on it. This made me look for alternatives.</p>
-<p>Actual Budget enters the scene. In early 2022 James, the creator of Actual Budget, decided to close-down the commercial product and open source it. When I learned about this - I quickly jumped at the opportunity to transition to Actual before my YNAB subscription expired. Actual was not as feature-complete as YNAB, but it did the job for a fraction of the cost. It was a no-brainer for me.</p>
-<p>Initially there was a lot of buzz around Actual with developers and other folks quickly joining the project and helping out, but this initial push died down. The PRs were stuck waiting for a review for months with nobody around to review them. The Discord community slowly got less active. But - there was a small group of people that saw the tremendous value in this software.</p>
-<p>We bonded together and convinced James to give us access to the core repositories. After that we were able to start reviewing and merging the backlog of all the PRs with bug-fixes and improvements. We had roughly 50 open PRs at that stage and my personal goal was to get it down to 20 and keep it there. I never reached this number as more PRs came in when the previous ones got closed. It's was both a blessing and a curse. The community was clearly eager to help out and improve the product, but reviewing all the changes was time-consuming.</p>
-<p>At this stage I started building a bigger core maintainer team - recruiting some of the most active members of the community. There was no reward, no salary or benefits I could offer. But still - people were willing to volunteer their time, knowledge and experience to help build Actual. I am incredibly thankful and humbled by this.</p>
-<p>The core team has been constantly changing and evolving. New folks join the team and help build the software; older team members leave as other things in their lives take priority (work, personal life, etc). However, the core principles of Actual have not changed since day 1.</p>
-<p>Today - the community discord has over 7'000 members. We see thousands of users of Actual on PikaPods and upwards of a million docker container clones <strong>per month</strong>.</p>
-<p>I'm happy to have led Actual to where it is today and I hope to remain a small part in its future too. In the short-term I will be taking a step back from actively leading the product due to a baby on the way. I'm proud of the core maintainer team we have today and I am confident in their ability to run the product!</p>
-<h2 class="anchor anchorTargetStickyNavbar_SAay" id="a-look-to-the-future">A look to the future<a href="https://actualbudget.org/blog/roadmap-for-2025#a-look-to-the-future" class="hash-link" aria-label="Direct link to A look to the future" title="Direct link to A look to the future" translate="no">​</a></h2>
-<p>2025 will be a very interesting year for Actual. There are many features in the works that will be released this year and with the growth trajectory of Actual - I'm sure we will see many more. Including improvements to the existing systems: more features in mobile, improvements with tagging and filtering, more tailored dashboards and reports.</p>
-<p>Some of the bigger features coming in 2025 are:</p>
-<p><strong>Multi-user support</strong>: running a single instance of Actual for your personal use is relatively easy. But what if you want to share it with your family members? So far the recommended approach was to create multiple budget files with different e2e encryption keys, but that is more of a workaround than a proper solution. In 2025 we plan on releasing a proper multi-user system that allows multiple people to use the same Actual instance.</p>
-<p><strong>OpenID authentication</strong>: logging in with a password is clunky. Ideally you should be able to put Actual behind a 3rd party authentication protocol and use it as the login method. OpenID authentication support plans to address this. Currently an experimental feature and coming as a first-party feature in early 2025.</p>
-<p><strong>Translations:</strong> a highly-requested feature - to allow translating Actual in Spanish, Portuguese, French and many other languages. The groundwork for the translation system has already been placed. Individual files are also slowly being moved over to be localized. You can follow the progress <a href="https://github.com/actualbudget/actual/issues/3329" target="_blank" rel="noopener noreferrer" class="">here</a>.</p>
-<p><strong>Plugin system:</strong> by default we want to keep Actual rather minimalistic with an opinionated recommended budgeting approach. However, this does not fit everyone's needs. This is why I am particularly excited about a plugin system that would allow engineers from the community to write smaller extensions to Actual that can be easily installed. They change and/or extend the existing functionality to facilitate all sorts of edge-case behaviors that are not planed in the core offering.</p>
-<p>I'm sure there will be many more great additions, but quite honestly - it's hard to say what exactly. It really is up to you - the community - to propose improvements and then also build them out. Me and the rest of the maintainer team are here to assist as best as we can.</p>
-<h2 class="anchor anchorTargetStickyNavbar_SAay" id="ps">Ps<a href="https://actualbudget.org/blog/roadmap-for-2025#ps" class="hash-link" aria-label="Direct link to Ps" title="Direct link to Ps" translate="no">​</a></h2>
-<p>I see some comments on the internet that I would like to address in a unstructured way.</p>
-<p><strong>Is Actual Budget a competitor to YNAB?</strong></p>
-<p>Personally: I don't see it that way. I have always spoken very fondly of YNAB. The software they have built is phenomenal. If I was much wealthier - I would definitely continue using it. However, I'm not in such a position.</p>
-<p>As such - I think even though Actual and YNAB both follow the envelope budgeting methodology - we cater to two different markets. And as such - I don't see us as "competing".</p>
-<p><strong>Is Actual Budget advertising on Reddit (or other platforms)?</strong></p>
-<p>No.</p>
-<ol>
-<li class="">We do not make any money off of this - our work for Actual is charity</li>
-<li class="">We do not intend to make money off of Actual</li>
-<li class="">If you are still not convinced - please see the expenses in our <a href="https://opencollective.com/actual" target="_blank" rel="noopener noreferrer" class="">Open Collective</a> page - you will not find any advertisement expense there</li>
-</ol>
-<p><strong>Actual Budget is free</strong></p>
-<p>Not necessarily true. While the users of Actual might not need to pay to use the product - there is still a very high cost to it. It's just someone else paying the bill.</p>
-<p>And in this case the bill is not strictly monetary. Maintaining any piece of software is a very time and labor intensive work. So while it might be "free" for you to use - there are many invisible volunteers paying the cost with their time.</p>
-<p>Which leads me to the next point: please show some appreciation to these folks.</p>
-<p><strong>Why was my Github issue closed?</strong></p>
-<p>My philosophy to managing Actual has been quite simple: core maintainer time is limited. Thus - reducing the amount of distractions to the core maintainers takes priority.</p>
-<p><strong>How can I support the project?</strong></p>
-<ol>
-<li class="">contribute - fix issues, add features, write documentation, assist with support queries in discord, etc.</li>
-<li class="">donate to the project via <a href="https://opencollective.com/actual" target="_blank" rel="noopener noreferrer" class="">Open Collective</a></li>
-<li class="">some of the core maintainers have github sponsors enabled if you want to buy a beer</li>
-</ol>]]></content:encoded>
-            <category>announcement</category>
         </item>
     </channel>
 </rss>
