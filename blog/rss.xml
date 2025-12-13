@@ -4,7 +4,7 @@
         <title>Actual Budget Blog</title>
         <link>https://actualbudget.org/blog</link>
         <description>Stay updated with the latest blog posts from Actual Budget</description>
-        <lastBuildDate>Sat, 13 Dec 2025 16:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 23:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[Welcome to Actual Budget Open Source]]></title>
             <link>https://actualbudget.org/blog/welcome-actualbudget-os</link>
             <guid>https://actualbudget.org/blog/welcome-actualbudget-os</guid>
-            <pubDate>Sat, 13 Dec 2025 16:53:48 GMT</pubDate>
+            <pubDate>Sat, 13 Dec 2025 23:18:13 GMT</pubDate>
             <description><![CDATA[The new home for the Open Source project.]]></description>
             <content:encoded><![CDATA[<p>As some of you may have noticed a lot of the URL's for our documentation, official test instance of Actual Budget and other parts of the project have silently been changing over the last few days, we can now give you an update on why, we have taken the decision to move everything relating to the Open Source version of Actual Budget to <a href="https://actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">actualbudget.org</a> and this takes effect across the project with immediate effect, some of the changes you will see include;</p>
 <ul>
