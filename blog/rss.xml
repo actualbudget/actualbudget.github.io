@@ -4,7 +4,7 @@
         <title>Actual Budget Blog</title>
         <link>https://actualbudget.org/blog</link>
         <description>Stay updated with the latest blog posts from Actual Budget</description>
-        <lastBuildDate>Sat, 20 Dec 2025 13:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 19:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[Welcome to Actual Budget Open Source]]></title>
             <link>https://actualbudget.org/blog/welcome-actualbudget-os</link>
             <guid>https://actualbudget.org/blog/welcome-actualbudget-os</guid>
-            <pubDate>Sat, 20 Dec 2025 13:43:40 GMT</pubDate>
+            <pubDate>Sat, 20 Dec 2025 19:51:16 GMT</pubDate>
             <description><![CDATA[The new home for the Open Source project.]]></description>
             <content:encoded><![CDATA[<p>As some of you may have noticed a lot of the URL's for our documentation, official test instance of Actual Budget and other parts of the project have silently been changing over the last few days, we can now give you an update on why, we have taken the decision to move everything relating to the Open Source version of Actual Budget to <a href="https://actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">actualbudget.org</a> and this takes effect across the project with immediate effect, some of the changes you will see include;</p>
 <ul>
@@ -389,11 +389,11 @@ Whether that be through donations, bug reporting, code submissions, documentatio
             <link>https://actualbudget.org/blog/continuing-to-reward-contributors</link>
             <guid>https://actualbudget.org/blog/continuing-to-reward-contributors</guid>
             <pubDate>Mon, 06 Oct 2025 10:00:00 GMT</pubDate>
-            <description><![CDATA[Our 3-month trial of paying core maintainers has been a success. We’re making it permanent — and will be expanding the system to cover bug bounties, feature work, and more.]]></description>
+            <description><![CDATA[Our 3-month trial of paying core maintainers has been a success. We're making it permanent — and will be expanding the system to cover bug bounties, feature work, and more.]]></description>
             <content:encoded><![CDATA[<p><a class="" href="https://actualbudget.org/blog/spending-community-funds">Three months ago</a>, we launched an experiment: using community donations to directly support the people who keep this project running. The idea was simple — compensate core contributors for the invisible but essential work of reviewing pull requests, triaging issues, and preparing releases.</p>
-<p>Today, we’re excited to share that the trial has been a success. 🎉</p>
-<p>Thanks to your feedback, patience, and ongoing support, we’ve ironed out the kinks in the system, resolved bugs in the points tracking process, and proven that this model is both fair and sustainable.</p>
-<p>As a result: <strong>we’re making contributor payments permanent.</strong></p>
+<p>Today, we're excited to share that the trial has been a success. 🎉</p>
+<p>Thanks to your feedback, patience, and ongoing support, we've ironed out the kinks in the system, resolved bugs in the points tracking process, and proven that this model is both fair and sustainable.</p>
+<p>As a result: <strong>we're making contributor payments permanent.</strong></p>
 <h2 class="anchor anchorTargetStickyNavbar_SAay" id="what-this-means">What This Means<a href="https://actualbudget.org/blog/continuing-to-reward-contributors#what-this-means" class="hash-link" aria-label="Direct link to What This Means" title="Direct link to What This Means" translate="no">​</a></h2>
 <ul>
 <li class="">Core contributors will continue to receive stipends based on their monthly contributions.</li>
@@ -401,16 +401,16 @@ Whether that be through donations, bug reporting, code submissions, documentatio
 <li class="">Funding continues to come from our community donations on <a href="https://opencollective.com/actual" target="_blank" rel="noopener noreferrer" class="">OpenCollective</a>.</li>
 </ul>
 <p>This ensures that the essential maintenance work — the work that enables everything else to happen — is recognized and supported long-term.</p>
-<h2 class="anchor anchorTargetStickyNavbar_SAay" id="whats-next-expanding-the-system">What’s Next: Expanding the System<a href="https://actualbudget.org/blog/continuing-to-reward-contributors#whats-next-expanding-the-system" class="hash-link" aria-label="Direct link to What’s Next: Expanding the System" title="Direct link to What’s Next: Expanding the System" translate="no">​</a></h2>
-<p>The initial trial was focused on core maintenance. Now that the foundation is solid, we’re preparing to expand. Over the coming months, we plan to introduce:</p>
+<h2 class="anchor anchorTargetStickyNavbar_SAay" id="whats-next-expanding-the-system">What's Next: Expanding the System<a href="https://actualbudget.org/blog/continuing-to-reward-contributors#whats-next-expanding-the-system" class="hash-link" aria-label="Direct link to What's Next: Expanding the System" title="Direct link to What's Next: Expanding the System" translate="no">​</a></h2>
+<p>The initial trial was focused on core maintenance. Now that the foundation is solid, we're preparing to expand. Over the coming months, we plan to introduce:</p>
 <ul>
 <li class=""><strong>Bug bounties</strong> → Rewards for fixing long-standing or high-impact issues.</li>
 <li class=""><strong>Feature bounties</strong> → Incentives for implementing important improvements requested by the community.</li>
 <li class=""><strong>Other initiatives</strong> → Ways to make contributing more rewarding and sustainable for everyone, not just core maintainers.</li>
 </ul>
-<p>We’ll share details about these expansions soon — so stay tuned!</p>
+<p>We'll share details about these expansions soon — so stay tuned!</p>
 <h2 class="anchor anchorTargetStickyNavbar_SAay" id="thank-you-️">Thank You ❤️<a href="https://actualbudget.org/blog/continuing-to-reward-contributors#thank-you-%EF%B8%8F" class="hash-link" aria-label="Direct link to Thank You ❤️" title="Direct link to Thank You ❤️" translate="no">​</a></h2>
-<p>This project is powered by generosity, trust, and shared care. By supporting contributors financially, we’re not just sustaining the software — we’re sustaining the community behind it.</p>
+<p>This project is powered by generosity, trust, and shared care. By supporting contributors financially, we're not just sustaining the software — we're sustaining the community behind it.</p>
 <p>To everyone who has donated, given feedback, or contributed time and energy: thank you. This is your success as much as ours.</p>]]></content:encoded>
             <category>announcement</category>
         </item>
@@ -474,7 +474,7 @@ Whether that be through donations, bug reporting, code submissions, documentatio
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5760" target="_blank" rel="noopener noreferrer" class="">#5760</a> Improve cleanup when opening multiple budgets through the API — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5761" target="_blank" rel="noopener noreferrer" class="">#5761</a> Optimise the way payee information is fetched. — thanks <a href="https://github.com/thromer" target="_blank" rel="noopener noreferrer" class="">thromer</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5765" target="_blank" rel="noopener noreferrer" class="">#5765</a> Translations of category labels in the TransactionEdit component (mobile) — thanks <a href="https://github.com/milanalexandre" target="_blank" rel="noopener noreferrer" class="">milanalexandre</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/5777" target="_blank" rel="noopener noreferrer" class="">#5777</a> Translated ‘(No payee)’ for a scheduled transaction — thanks <a href="https://github.com/milanalexandre" target="_blank" rel="noopener noreferrer" class="">milanalexandre</a></li>
+<li class=""><a href="https://github.com/actualbudget/actual/pull/5777" target="_blank" rel="noopener noreferrer" class="">#5777</a> Translated '(No payee)' for a scheduled transaction — thanks <a href="https://github.com/milanalexandre" target="_blank" rel="noopener noreferrer" class="">milanalexandre</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5779" target="_blank" rel="noopener noreferrer" class="">#5779</a> Ensure file upload size limits are respected when syncing files — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5782" target="_blank" rel="noopener noreferrer" class="">#5782</a> Fix token expiration parsing to accept numeric strings and validate special string formats. — thanks <a href="https://github.com/MatissJanis" target="_blank" rel="noopener noreferrer" class="">MatissJanis</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5790" target="_blank" rel="noopener noreferrer" class="">#5790</a> Fix live report time ranges — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
@@ -575,7 +575,7 @@ Whether that be through donations, bug reporting, code submissions, documentatio
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5464" target="_blank" rel="noopener noreferrer" class="">#5464</a> Remove the automatic space added by bulk prepend/append to notes to make behaviour consistent with the rule action — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5471" target="_blank" rel="noopener noreferrer" class="">#5471</a> Adds translations to the "new transaction" page on mobile devices — thanks <a href="https://github.com/milanalexandre" target="_blank" rel="noopener noreferrer" class="">milanalexandre</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5485" target="_blank" rel="noopener noreferrer" class="">#5485</a> Display name of old payee correctly when merging — thanks <a href="https://github.com/r1ch" target="_blank" rel="noopener noreferrer" class="">r1ch</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/5486" target="_blank" rel="noopener noreferrer" class="">#5486</a> Add missing translations in “Reports” &amp;&amp; “Rule” — thanks <a href="https://github.com/milanalexandre" target="_blank" rel="noopener noreferrer" class="">milanalexandre</a></li>
+<li class=""><a href="https://github.com/actualbudget/actual/pull/5486" target="_blank" rel="noopener noreferrer" class="">#5486</a> Add missing translations in "Reports" &amp;&amp; "Rule" — thanks <a href="https://github.com/milanalexandre" target="_blank" rel="noopener noreferrer" class="">milanalexandre</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5489" target="_blank" rel="noopener noreferrer" class="">#5489</a> Fixes #4036 <a href="https://github.com/actualbudget/actual/issues/4036" target="_blank" rel="noopener noreferrer" class="">https://github.com/actualbudget/actual/issues/4036</a> — thanks <a href="https://github.com/emilgeo" target="_blank" rel="noopener noreferrer" class="">emilgeo</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5495" target="_blank" rel="noopener noreferrer" class="">#5495</a> Fix live report date mode not supporting a 2 month window — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/5496" target="_blank" rel="noopener noreferrer" class="">#5496</a> Hide hold for next month option when "to budget" is negative — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
@@ -836,21 +836,21 @@ Whether that be through donations, bug reporting, code submissions, documentatio
             <link>https://actualbudget.org/blog/spending-community-funds</link>
             <guid>https://actualbudget.org/blog/spending-community-funds</guid>
             <pubDate>Sun, 08 Jun 2025 16:00:00 GMT</pubDate>
-            <description><![CDATA[We're proposing a system to pay core maintainers for essential admin work funded by community donations. This 3-month trial won’t move forward without your input. If the community is against it, we won’t do it.]]></description>
+            <description><![CDATA[We're proposing a system to pay core maintainers for essential admin work funded by community donations. This 3-month trial won't move forward without your input. If the community is against it, we won't do it.]]></description>
             <content:encoded><![CDATA[<p>Our open source community has reached an exciting point: thanks to the incredible generosity of our donors, we now have a steady flow of funds coming in. First of all — thank you.</p>
 <p>This support allows us to make the project more sustainable for everyone involved. We want to start by addressing something that is often overlooked in open source: the invisible labor that keeps everything running.</p>
-<p>We’re proposing a 3-month trial program to pay our core maintainers for the essential (but often unglamorous) work of:</p>
+<p>We're proposing a 3-month trial program to pay our core maintainers for the essential (but often unglamorous) work of:</p>
 <ul>
 <li class="">Reviewing pull requests</li>
 <li class="">Triage and categorize GitHub issues</li>
 <li class="">Preparing releases</li>
 </ul>
-<p>We believe it’s time to recognize the financial value of labor — but before we move forward, we want to hear your feedback. Join the conversation on <a href="https://discord.com/channels/937901803608096828/940290142579605514/1381286169601511515" target="_blank" rel="noopener noreferrer" class="">Discord</a> or leave anonymous feedback in <a href="https://docs.google.com/forms/d/e/1FAIpQLScGRK__pOmMja3y_GMmF7RbMjtnmebWrbXvY0JXstoiJLb7Uw/viewform?usp=dialog" target="_blank" rel="noopener noreferrer" class="">this form</a>.</p>
+<p>We believe it's time to recognize the financial value of labor — but before we move forward, we want to hear your feedback. Join the conversation on <a href="https://discord.com/channels/937901803608096828/940290142579605514/1381286169601511515" target="_blank" rel="noopener noreferrer" class="">Discord</a> or leave anonymous feedback in <a href="https://docs.google.com/forms/d/e/1FAIpQLScGRK__pOmMja3y_GMmF7RbMjtnmebWrbXvY0JXstoiJLb7Uw/viewform?usp=dialog" target="_blank" rel="noopener noreferrer" class="">this form</a>.</p>
 <blockquote>
 <p><strong>Update:</strong> This proposal has been approved. More details about the payment system can be found in the <a class="" href="https://actualbudget.org/docs/contributing/leadership/paying-contributors">paying contributors</a> page.</p>
 </blockquote>
-<h2 class="anchor anchorTargetStickyNavbar_SAay" id="what-were-proposing">What We’re Proposing<a href="https://actualbudget.org/blog/spending-community-funds#what-were-proposing" class="hash-link" aria-label="Direct link to What We’re Proposing" title="Direct link to What We’re Proposing" translate="no">​</a></h2>
-<p>Starting July 1st, we’d like to set aside $1,000 per month from the project’s funds for a review stipend pool. This pool would be divided between <strong>core maintainers</strong> based on the work they do each month, measured via a transparent points system.</p>
+<h2 class="anchor anchorTargetStickyNavbar_SAay" id="what-were-proposing">What We're Proposing<a href="https://actualbudget.org/blog/spending-community-funds#what-were-proposing" class="hash-link" aria-label="Direct link to What We're Proposing" title="Direct link to What We're Proposing" translate="no">​</a></h2>
+<p>Starting July 1st, we'd like to set aside $1,000 per month from the project's funds for a review stipend pool. This pool would be divided between <strong>core maintainers</strong> based on the work they do each month, measured via a transparent points system.</p>
 <ul>
 <li class="">Points are assigned based on the size of PRs reviewed (using lines of code as a proxy for effort).</li>
 <li class="">Additional points are awarded for labelling and grooming issues, closing duplicates, and managing releases.</li>
@@ -862,19 +862,19 @@ Whether that be through donations, bug reporting, code submissions, documentatio
 <p>Before we consider feature bounties or bug bounties, we need to acknowledge the day-to-day labor that enables these contributions to be merged and released. Paying for features while leaving critical administrative work unpaid would be unsustainable — and unfair.</p>
 <p>This trial serves as the foundation for broader funding efforts in the future. However, it begins with respecting the work that is already being done.</p>
 <h2 class="anchor anchorTargetStickyNavbar_SAay" id="what-we-need-from-you">What We Need From You<a href="https://actualbudget.org/blog/spending-community-funds#what-we-need-from-you" class="hash-link" aria-label="Direct link to What We Need From You" title="Direct link to What We Need From You" translate="no">​</a></h2>
-<p>We believe this is the right direction — but we won’t go ahead without the community’s support.</p>
+<p>We believe this is the right direction — but we won't go ahead without the community's support.</p>
 <ul>
-<li class="">If you’re for it, against it, or have suggestions — let us know.</li>
-<li class="">If there’s strong opposition, we won’t implement it.</li>
-<li class="">If the community supports it, we’ll begin the trial in July.</li>
+<li class="">If you're for it, against it, or have suggestions — let us know.</li>
+<li class="">If there's strong opposition, we won't implement it.</li>
+<li class="">If the community supports it, we'll begin the trial in July.</li>
 </ul>
 <p>Join the conversation on <a href="https://discord.com/channels/937901803608096828/940290142579605514/1381286169601511515" target="_blank" rel="noopener noreferrer" class="">Discord</a> or leave anonymous feedback in <a href="https://docs.google.com/forms/d/e/1FAIpQLScGRK__pOmMja3y_GMmF7RbMjtnmebWrbXvY0JXstoiJLb7Uw/viewform?usp=dialog" target="_blank" rel="noopener noreferrer" class="">this form</a>.
-We’re listening — and we’ll publish a summary of the feedback before moving forward.</p>
-<h2 class="anchor anchorTargetStickyNavbar_SAay" id="whats-next">What’s Next?<a href="https://actualbudget.org/blog/spending-community-funds#whats-next" class="hash-link" aria-label="Direct link to What’s Next?" title="Direct link to What’s Next?" translate="no">​</a></h2>
+We're listening — and we'll publish a summary of the feedback before moving forward.</p>
+<h2 class="anchor anchorTargetStickyNavbar_SAay" id="whats-next">What's Next?<a href="https://actualbudget.org/blog/spending-community-funds#whats-next" class="hash-link" aria-label="Direct link to What's Next?" title="Direct link to What's Next?" translate="no">​</a></h2>
 <ul>
-<li class="">We’ll collect community feedback until late June.</li>
-<li class="">If there’s consensus, the 3-month trial begins July 1st.</li>
-<li class="">After the trial, we’ll evaluate how it went and where to go next.</li>
+<li class="">We'll collect community feedback until late June.</li>
+<li class="">If there's consensus, the 3-month trial begins July 1st.</li>
+<li class="">After the trial, we'll evaluate how it went and where to go next.</li>
 </ul>
 <hr>
 <p>Thank you again for being part of this journey. This community runs on trust, time, and care. With your feedback, we can keep building something that works — for all of us.</p>]]></content:encoded>

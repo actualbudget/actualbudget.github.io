@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.9.2">
 <title data-rh="true">Build from source | Actual Budget Documentation</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://actualbudget.org/docs/install/build-from-source"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Build from source | Actual Budget Documentation"><meta data-rh="true" name="description" content="Installing Actual by building it from source is a highly technical process. We recommend this approach primarily for contributors."><meta data-rh="true" property="og:description" content="Installing Actual by building it from source is a highly technical process. We recommend this approach primarily for contributors."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://actualbudget.org/docs/install/build-from-source"><link data-rh="true" rel="alternate" href="https://actualbudget.org/docs/install/build-from-source" hreflang="en"><link data-rh="true" rel="alternate" href="https://actualbudget.org/docs/install/build-from-source" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Installation and Configuration","item":"https://actualbudget.org/docs/install/"},{"@type":"ListItem","position":2,"name":"Build from source","item":"https://actualbudget.org/docs/install/build-from-source"}]}</script><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="Actual Budget Blog RSS Feed"><link rel="stylesheet" href="/assets/css/styles.ddf522dd.css">
-<script src="/assets/js/runtime~main.e35df418.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.a4a0fc2c.js" defer="defer"></script>
 <script src="/assets/js/main.024f6e51.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -22,7 +22,7 @@
 <h2 class="anchor anchorTargetStickyNavbar_SAay" id="prerequisites">Prerequisites<a href="#prerequisites" class="hash-link" aria-label="Direct link to Prerequisites" title="Direct link to Prerequisites" translate="no">​</a></h2>
 <ul>
 <li class="">
-<p>The Actual server requires Node.js v22 or greater. You can download and install the latest version of Node.js from <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer" class="">Node.js website</a> (we recommend downloading the “LTS” version).</p>
+<p>The Actual server requires Node.js v22 or greater. You can download and install the latest version of Node.js from <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer" class="">Node.js website</a> (we recommend downloading the &quot;LTS&quot; version).</p>
 <ul>
 <li class="">If you&#x27;re on Windows, during installation of Node.js, be sure to select <em>Automatically install the necessary tools</em> from the <em>Tools for Native Modules</em> page. This is required to build better-sqlite3. If you missed this when you installed Node.js, double-click <code>C:\Program Files\nodejs\install_tools.bat</code> from the File Explorer or run it in a terminal.</li>
 </ul>
@@ -31,7 +31,7 @@
 <p>Consider using a tool like <a href="https://github.com/nvm-sh/nvm" target="_blank" rel="noopener noreferrer" class="">nvm</a> or <a href="https://asdf-vm.com" target="_blank" rel="noopener noreferrer" class="">asdf</a> to install and manage multiple versions of Node.js.</p>
 </li>
 <li class="">
-<p>You’ll also need to have Git installed. For Windows users, you&#x27;ll also need Git Bash. The Git website has <a href="https://git-scm.com/download" target="_blank" rel="noopener noreferrer" class="">instructions for downloading and working with Git for all supported operating systems</a>.</p>
+<p>You&#x27;ll also need to have Git installed. For Windows users, you&#x27;ll also need Git Bash. The Git website has <a href="https://git-scm.com/download" target="_blank" rel="noopener noreferrer" class="">instructions for downloading and working with Git for all supported operating systems</a>.</p>
 </li>
 <li class="">
 <p>Actual uses yarn packages. You can install <a href="https://yarnpkg.com/getting-started/install" target="_blank" rel="noopener noreferrer" class="">yarn</a> using the following command:</p>
@@ -57,7 +57,7 @@
 <h2 class="anchor anchorTargetStickyNavbar_SAay" id="running-actual">Running Actual<a href="#running-actual" class="hash-link" aria-label="Direct link to Running Actual" title="Direct link to Running Actual" translate="no">​</a></h2>
 <p>After the Actual is installed and built, start the Actual server by running the following command:</p>
 <div class="language-bash codeBlockContainer_ZGJx theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_kX1v"><pre tabindex="0" class="prism-code language-bash codeBlock_TAPP thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_AdAo"><span class="token-line" style="color:#393A34"><span class="token plain">yarn start:server</span><br></span></code></pre></div></div>
-<p>Note that if you restart your computer, you’ll have to run this command again to start the server.</p>
+<p>Note that if you restart your computer, you&#x27;ll have to run this command again to start the server.</p>
 <h3 class="anchor anchorTargetStickyNavbar_SAay" id="linux-systemd-setup">Linux systemd Setup<a href="#linux-systemd-setup" class="hash-link" aria-label="Direct link to Linux systemd Setup" title="Direct link to Linux systemd Setup" translate="no">​</a></h3>
 <p>On Linux systems you can configure a systemd unit file to have Actual run on system startup. This needs to be done as the root user (open a root terminal session or preface each command with sudo to run the commands below)</p>
 <ol>
@@ -90,7 +90,7 @@
 <p>When accessing Actual for the first time, you may be prompted to provide a URL for the server. For a local installation, click the <strong>Use localhost:5006</strong> button to use the server you&#x27;ve <a href="https://actualbudget.org/docs/config/" target="_blank" rel="noopener noreferrer" class="">configured</a>.</p>
 <h2 class="anchor anchorTargetStickyNavbar_SAay" id="updating-actual">Updating Actual<a href="#updating-actual" class="hash-link" aria-label="Direct link to Updating Actual" title="Direct link to Updating Actual" translate="no">​</a></h2>
 <ol>
-<li class="">Stop the server if it’s running. You can use the keyboard shortcut <kbd>CTRL-C</kbd> (even on macOS) to stop the server or close the terminal window it’s running from.</li>
+<li class="">Stop the server if it&#x27;s running. You can use the keyboard shortcut <kbd>CTRL-C</kbd> (even on macOS) to stop the server or close the terminal window it&#x27;s running from.</li>
 <li class="">In Bash, run <code>git pull</code> from the directory you cloned the project into. This will download the latest code.</li>
 <li class="">Run <code>yarn install</code> from that directory. This will download any updated dependencies.</li>
 <li class="">Run <code>yarn build:server</code> to build the server from the latest code.</li>
