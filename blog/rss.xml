@@ -4,7 +4,7 @@
         <title>Actual Budget Blog</title>
         <link>https://actualbudget.org/blog</link>
         <description>Stay updated with the latest blog posts from Actual Budget</description>
-        <lastBuildDate>Wed, 17 Dec 2025 15:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 13:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[Welcome to Actual Budget Open Source]]></title>
             <link>https://actualbudget.org/blog/welcome-actualbudget-os</link>
             <guid>https://actualbudget.org/blog/welcome-actualbudget-os</guid>
-            <pubDate>Wed, 17 Dec 2025 15:20:18 GMT</pubDate>
+            <pubDate>Sat, 20 Dec 2025 13:43:40 GMT</pubDate>
             <description><![CDATA[The new home for the Open Source project.]]></description>
             <content:encoded><![CDATA[<p>As some of you may have noticed a lot of the URL's for our documentation, official test instance of Actual Budget and other parts of the project have silently been changing over the last few days, we can now give you an update on why, we have taken the decision to move everything relating to the Open Source version of Actual Budget to <a href="https://actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">actualbudget.org</a> and this takes effect across the project with immediate effect, some of the changes you will see include;</p>
 <ul>
@@ -25,6 +25,84 @@
 <p>Talking of the blog, this change will introduce a blog feed, you can find that <a href="https://actualbudget.org/blog/rss.xml" target="_blank" rel="noopener noreferrer" class="">here</a> if you are looking for posts specific to releases you can have a look at the <a href="https://actualbudget.org/blog/tags/release" target="_blank" rel="noopener noreferrer" class="">release tag</a> historical releases will be added as posts over the coming days.</p>]]></content:encoded>
             <category>announcement</category>
             <category>coreproject</category>
+        </item>
+        <item>
+            <title><![CDATA[Roadmap for 2026]]></title>
+            <link>https://actualbudget.org/blog/roadmap-for-2026</link>
+            <guid>https://actualbudget.org/blog/roadmap-for-2026</guid>
+            <pubDate>Sat, 20 Dec 2025 10:00:00 GMT</pubDate>
+            <description><![CDATA[We were able to accomplish a lot in 2025. Let's look back over the year and also look at what's to come.]]></description>
+            <content:encoded><![CDATA[<p>Hello Actual Budgeters!
+Another year has gone by with many fixes and upgrades to Actual.
+Let's look back over the year and also look at what's to come.</p>
+<h2 class="anchor anchorTargetStickyNavbar_SAay" id="2025-in-review">2025 in review<a href="https://actualbudget.org/blog/roadmap-for-2026#2025-in-review" class="hash-link" aria-label="Direct link to 2025 in review" title="Direct link to 2025 in review" translate="no">​</a></h2>
+<p>It's always fun to look back and see all the progress made in Actual over the course of a year.
+It's easy to forget how many of the features we love weren't available back at the beginning of the year.</p>
+<h3 class="anchor anchorTargetStickyNavbar_SAay" id="new-features">New features<a href="https://actualbudget.org/blog/roadmap-for-2026#new-features" class="hash-link" aria-label="Direct link to New features" title="Direct link to New features" translate="no">​</a></h3>
+<p>My favorites in approximately chronological order are:</p>
+<ul>
+<li class="">OIDC and multi-user support</li>
+<li class="">Adjustable upcoming time frame for schedules</li>
+<li class="">Multiple new report types</li>
+<li class="">NPM package for the sync server</li>
+<li class="">Translations</li>
+<li class="">Bank sync management page</li>
+<li class="">Desktop app improvements such as the embedded server</li>
+<li class="">Auto-hold income</li>
+<li class="">Merge transactions</li>
+<li class="">Transaction tags</li>
+<li class="">Mobile pages for Rules, Payees, Schedules, and Bank Sync</li>
+<li class="">Budget Currencies (still experimental)</li>
+<li class="">Quickly add single schedules from the account view</li>
+</ul>
+<p><strong>Note on Translations:</strong>  Translations are a never-ending project.
+Every month there are new or modified strings that need to be translated.
+We could use as many contributors to translation as we can get.
+If you are interested in helping translate Actual into other languages see <a href="https://actualbudget.org/docs/contributing/i18n" target="_blank" rel="noopener noreferrer" class="">our translation guide</a>.</p>
+<p>If you remember our roadmap from last year, you will see that we were able to accomplish all but one of our goals, plugins.
+I will touch on that more below.</p>
+<h3 class="anchor anchorTargetStickyNavbar_SAay" id="maintainer-and-contributor-payments">Maintainer and contributor payments<a href="https://actualbudget.org/blog/roadmap-for-2026#maintainer-and-contributor-payments" class="hash-link" aria-label="Direct link to Maintainer and contributor payments" title="Direct link to Maintainer and contributor payments" translate="no">​</a></h3>
+<p>This year we started paying small stipends to the core maintainer team, and giving out SWAG items to other contributors.
+The maintainer stipends are based on points received for doing the necessary, but not very exciting, parts of maintaining Actual.
+This is only possible because of the generous donations from you the users.
+Many of you donate regularly and there are over 8000 Pikapods users whose hosting fees partially go towards supporting Actual.
+We offer a very hearty thank you to those who are donating.
+See the bottom of the post for ways to support the project if you would like to donate.</p>
+<h2 class="anchor anchorTargetStickyNavbar_SAay" id="2026-wish-list">2026 Wish list<a href="https://actualbudget.org/blog/roadmap-for-2026#2026-wish-list" class="hash-link" aria-label="Direct link to 2026 Wish list" title="Direct link to 2026 Wish list" translate="no">​</a></h2>
+<p><strong>Plugins</strong>: We have been working on adding plugins to allow users to more easily add functionality to the app without the need to add said feature to the base app.
+The feature is not quite ready as plugins have a tendency to break existing features, which slows down development a great deal.
+We are doing everything we can to not break existing features that we know you rely on.
+Our hope is to have plugins ready for you to build on in the first few months of 2026.</p>
+<p>The first plugins we will be adding will be to migrate the existing bank sync providers.
+We also are looking at adding multiple new providers soon after.
+Multiple prospective providers have reached out to us in just the last few months and are patiently waiting for plugins before fully integrating into Actual.</p>
+<p><strong>Goals UI</strong>: The goal templates and cleanup templates experimental features are used by many, if not most of you.
+We plan on getting a proper GUI put together for these to make adding and editing templates less prone to error.
+This would also include the ability to predict the total needed to meet all set budget goals, see all active goals, and easily modify fill order.</p>
+<p><strong>Mobile view feature parity</strong>: The mobile view has received many updates this year but it still lacks a number of features that are available on desktop.  We would like to bring that disparity down to close to 0 this year.</p>
+<p><strong>Rewrite the transaction table</strong>:  The transaction table is probably the most important feature of the app, even more so than the budget itself.
+The code for the transaction table is complicated, and not conducive to new features.
+We plan to rewrite this code to be more maintainable, more accessible to new contributors, and more extendable for new features such as resizing columns.</p>
+<p><strong>Debt account type</strong>: Currently Actual only has a standard account, you can add transactions and there is a balance.
+This is perfect for checking and savings accounts, but less great for loans.
+We would like to bring back account types to make more specialty type accounts easier to manage in Actual, starting with loan accounts.
+The ability to automate this is technically already available with rules and schedules, but adding in a custom account type that does the setup for you would be that much better.
+We will look at what other account types would make sense for the base app, but with plugins the possibilities are endless.</p>
+<p><strong>Better and faster code tests</strong>: We have stared work on upgrading our CI/CD to use Rust based tooling.
+This speeds up the tests immensely and makes development and testing faster.</p>
+<p>(Remember to vote on the features you would like to see get added to Actual.
+Use this link to see <a href="https://github.com/actualbudget/actual/issues?q=is%3Aissue+label%3A%22needs+votes%22+sort%3Areactions-%2B1-desc" target="_blank" rel="noopener noreferrer" class="">all open feature requests</a> and vote by reacting with 👍)</p>
+<p>Thank you all that contribute!
+Whether that be through donations, bug reporting, code submissions, documentation edits, or helping on discord, Actual wouldn't exist without you.</p>
+<p>Happy Budgeting and have a happy new year!</p>
+<p>youngcw</p>
+<h4 class="anchor anchorTargetStickyNavbar_SAay" id="how-can-i-support-the-project">How can I support the project?<a href="https://actualbudget.org/blog/roadmap-for-2026#how-can-i-support-the-project" class="hash-link" aria-label="Direct link to How can I support the project?" title="Direct link to How can I support the project?" translate="no">​</a></h4>
+<ol>
+<li class="">contribute - fix issues, add features, write documentation, assist with support queries in discord, etc.</li>
+<li class="">donate to the project via <a href="https://opencollective.com/actual" target="_blank" rel="noopener noreferrer" class="">Open Collective</a> or <a href="https://github.com/sponsors/actualbudget" target="_blank" rel="noopener noreferrer" class="">GitHub Sponsors</a></li>
+<li class="">some of the core maintainers have GitHub sponsors enabled if you want to buy them a beer</li>
+</ol>]]></content:encoded>
+            <category>announcement</category>
         </item>
         <item>
             <title><![CDATA[Release 25.12.0]]></title>
@@ -1473,97 +1551,6 @@ We’re listening — and we’ll publish a summary of the feedback before movin
 <ul>
 <li class=""><a href="https://github.com/actualbudget/actual-server/pull/538" target="_blank" rel="noopener noreferrer" class="">#538</a> Fix WARN: FromAsCasing: 'as' and 'FROM' keywords' casing do not match in Dockerfiles — thanks <a href="https://github.com/lnagel" target="_blank" rel="noopener noreferrer" class="">lnagel</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual-server/pull/541" target="_blank" rel="noopener noreferrer" class="">#541</a> Standardize GoCardless bank handlers — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-</ul>]]></content:encoded>
-            <category>announcement</category>
-            <category>release</category>
-        </item>
-        <item>
-            <title><![CDATA[Release 25.1.0]]></title>
-            <link>https://actualbudget.org/blog/release-25.1.0</link>
-            <guid>https://actualbudget.org/blog/release-25.1.0</guid>
-            <pubDate>Sun, 05 Jan 2025 10:00:00 GMT</pubDate>
-            <description><![CDATA[New release of Actual.]]></description>
-            <content:encoded><![CDATA[<p>The release has the following notable improvements:</p>
-<ul>
-<li class="">New calendar report card type</li>
-<li class="">Ability to duplicate budgets</li>
-<li class="">Experimental support for multiple users via OpenID Connect</li>
-</ul>
-<p><strong>Docker tag: 25.1.0</strong></p>
-<h2 class="anchor anchorTargetStickyNavbar_SAay" id="actual">Actual<a href="https://actualbudget.org/blog/release-25.1.0#actual" class="hash-link" aria-label="Direct link to Actual" title="Direct link to Actual" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_SAay" id="features">Features<a href="https://actualbudget.org/blog/release-25.1.0#features" class="hash-link" aria-label="Direct link to Features" title="Direct link to Features" translate="no">​</a></h4>
-<ul>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3828" target="_blank" rel="noopener noreferrer" class="">#3828</a> Added Calendar report — thanks <a href="https://github.com/lelemm" target="_blank" rel="noopener noreferrer" class="">lelemm</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3847" target="_blank" rel="noopener noreferrer" class="">#3847</a> Added ability to duplicate budgets. — thanks <a href="https://github.com/tlesicka" target="_blank" rel="noopener noreferrer" class="">tlesicka</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3878" target="_blank" rel="noopener noreferrer" class="">#3878</a> Add support for authentication using OpenID Connect. — thanks <a href="https://github.com/apilat" target="_blank" rel="noopener noreferrer" class="">apilat</a> &amp; <a href="https://github.com/lelemm" target="_blank" rel="noopener noreferrer" class="">lelemm</a></li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_SAay" id="enhancements">Enhancements<a href="https://actualbudget.org/blog/release-25.1.0#enhancements" class="hash-link" aria-label="Direct link to Enhancements" title="Direct link to Enhancements" translate="no">​</a></h4>
-<ul>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3703" target="_blank" rel="noopener noreferrer" class="">#3703</a> Add button to go to current month in budget view — thanks <a href="https://github.com/UnderKoen" target="_blank" rel="noopener noreferrer" class="">UnderKoen</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3775" target="_blank" rel="noopener noreferrer" class="">#3775</a> Position context menus on the to budget page to the cursor, and make popovers non selectable. — thanks <a href="https://github.com/UnderKoen" target="_blank" rel="noopener noreferrer" class="">UnderKoen</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3776" target="_blank" rel="noopener noreferrer" class="">#3776</a> Add context menus to custom reports dashboard — thanks <a href="https://github.com/UnderKoen" target="_blank" rel="noopener noreferrer" class="">UnderKoen</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3777" target="_blank" rel="noopener noreferrer" class="">#3777</a> Add context menu's on the sidebar account names and the budget name at the top left. — thanks <a href="https://github.com/UnderKoen" target="_blank" rel="noopener noreferrer" class="">UnderKoen</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3855" target="_blank" rel="noopener noreferrer" class="">#3855</a> Dashboards: sort pie-chart according to balances; add more spacing for labels. — thanks <a href="https://github.com/MatissJanis" target="_blank" rel="noopener noreferrer" class="">MatissJanis</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3891" target="_blank" rel="noopener noreferrer" class="">#3891</a> Filter accounts when on budget or off budget — thanks <a href="https://github.com/lelemm" target="_blank" rel="noopener noreferrer" class="">lelemm</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3895" target="_blank" rel="noopener noreferrer" class="">#3895</a> Add more logging for GoCardless rate limit information — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3900" target="_blank" rel="noopener noreferrer" class="">#3900</a> Add loading indicator when loading more transactions in mobile transaction list. — thanks <a href="https://github.com/joel-jeremy" target="_blank" rel="noopener noreferrer" class="">joel-jeremy</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3970" target="_blank" rel="noopener noreferrer" class="">#3970</a> Extend fix splits tool to report splits with mismatched amounts — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4028" target="_blank" rel="noopener noreferrer" class="">#4028</a> Allow negatives in budget templates. — thanks <a href="https://github.com/UnderKoen" target="_blank" rel="noopener noreferrer" class="">UnderKoen</a></li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_SAay" id="bugfix">Bugfix<a href="https://actualbudget.org/blog/release-25.1.0#bugfix" class="hash-link" aria-label="Direct link to Bugfix" title="Direct link to Bugfix" translate="no">​</a></h4>
-<ul>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3880" target="_blank" rel="noopener noreferrer" class="">#3880</a> Fix bug where menu option icon disappearing completely on certain screen sizes. — thanks <a href="https://github.com/ericji1326" target="_blank" rel="noopener noreferrer" class="">ericji1326</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3906" target="_blank" rel="noopener noreferrer" class="">#3906</a> Fix bug where category labels are not scaling correctly on small screens — thanks <a href="https://github.com/annechoww" target="_blank" rel="noopener noreferrer" class="">annechoww</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3941" target="_blank" rel="noopener noreferrer" class="">#3941</a> Fix UI issue with bank sync being stuck if no data from server. — thanks <a href="https://github.com/psybers" target="_blank" rel="noopener noreferrer" class="">psybers</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3942" target="_blank" rel="noopener noreferrer" class="">#3942</a> Fix misaligned gocardless credential popover. — thanks <a href="https://github.com/MatissJanis" target="_blank" rel="noopener noreferrer" class="">MatissJanis</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3943" target="_blank" rel="noopener noreferrer" class="">#3943</a> Fix rule creation throwing error for "notes contains (nothing)" condition. — thanks <a href="https://github.com/MatissJanis" target="_blank" rel="noopener noreferrer" class="">MatissJanis</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3944" target="_blank" rel="noopener noreferrer" class="">#3944</a> Fix tracking budget docs link in settings. — thanks <a href="https://github.com/adamhl8" target="_blank" rel="noopener noreferrer" class="">adamhl8</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3958" target="_blank" rel="noopener noreferrer" class="">#3958</a> Prevent schedules with null amounts from crashing the app — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3962" target="_blank" rel="noopener noreferrer" class="">#3962</a> Fix iOS mobile navigation tabs disappearing on bouncing top and appearing on bouncing bottom. — thanks <a href="https://github.com/mbaeuerle" target="_blank" rel="noopener noreferrer" class="">mbaeuerle</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3985" target="_blank" rel="noopener noreferrer" class="">#3985</a> Fix space missing on create local account copy — thanks <a href="https://github.com/talkintomato" target="_blank" rel="noopener noreferrer" class="">talkintomato</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4009" target="_blank" rel="noopener noreferrer" class="">#4009</a> Fix incorrect bolding of synced accounts in the sidebar — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4010" target="_blank" rel="noopener noreferrer" class="">#4010</a> Fix goal templates not applying in tracking budget — thanks <a href="https://github.com/youngcw" target="_blank" rel="noopener noreferrer" class="">youngcw</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4038" target="_blank" rel="noopener noreferrer" class="">#4038</a> Fix loading of number format preferences at app startup — thanks <a href="https://github.com/jfdoming" target="_blank" rel="noopener noreferrer" class="">jfdoming</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4056" target="_blank" rel="noopener noreferrer" class="">#4056</a> Fix payee cell overflowing when it contains an icon — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4066" target="_blank" rel="noopener noreferrer" class="">#4066</a> Fix spend template not repeating — thanks <a href="https://github.com/youngcw" target="_blank" rel="noopener noreferrer" class="">youngcw</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4068" target="_blank" rel="noopener noreferrer" class="">#4068</a> Fix mobile hold for next month using negative amount by default — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4070" target="_blank" rel="noopener noreferrer" class="">#4070</a> Fix regression in hover effect for icons — thanks <a href="https://github.com/jfdoming" target="_blank" rel="noopener noreferrer" class="">jfdoming</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4073" target="_blank" rel="noopener noreferrer" class="">#4073</a> Fix calendar report day background color in development theme — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4077" target="_blank" rel="noopener noreferrer" class="">#4077</a> Fix schedule split template amounts — thanks <a href="https://github.com/jfdoming" target="_blank" rel="noopener noreferrer" class="">jfdoming</a></li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_SAay" id="maintenance">Maintenance<a href="https://actualbudget.org/blog/release-25.1.0#maintenance" class="hash-link" aria-label="Direct link to Maintenance" title="Direct link to Maintenance" translate="no">​</a></h4>
-<ul>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3879" target="_blank" rel="noopener noreferrer" class="">#3879</a> Optimize useSheetValue hook — thanks <a href="https://github.com/joel-jeremy" target="_blank" rel="noopener noreferrer" class="">joel-jeremy</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3893" target="_blank" rel="noopener noreferrer" class="">#3893</a> Use useTranslation hook instead of directly importing t function from i18next — thanks <a href="https://github.com/joel-jeremy" target="_blank" rel="noopener noreferrer" class="">joel-jeremy</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3899" target="_blank" rel="noopener noreferrer" class="">#3899</a> Convert BudgetTable.jsx to TypeScript — thanks <a href="https://github.com/joel-jeremy" target="_blank" rel="noopener noreferrer" class="">joel-jeremy</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3903" target="_blank" rel="noopener noreferrer" class="">#3903</a> Use consistent terms for on budget accounts i.e. <code>For budget</code>/<code>Budgeted</code> --&gt; <code>On budget</code>. — thanks <a href="https://github.com/joel-jeremy" target="_blank" rel="noopener noreferrer" class="">joel-jeremy</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3911" target="_blank" rel="noopener noreferrer" class="">#3911</a> Remove usage of useActions hook — thanks <a href="https://github.com/joel-jeremy" target="_blank" rel="noopener noreferrer" class="">joel-jeremy</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3945" target="_blank" rel="noopener noreferrer" class="">#3945</a> Migrate useSplitsExpanded to TypeScript — thanks <a href="https://github.com/dkhalife" target="_blank" rel="noopener noreferrer" class="">dkhalife</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3959" target="_blank" rel="noopener noreferrer" class="">#3959</a> Migrate CategoryTransactions to TypeScript — thanks <a href="https://github.com/dkhalife" target="_blank" rel="noopener noreferrer" class="">dkhalife</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/3987" target="_blank" rel="noopener noreferrer" class="">#3987</a> Upgrade better-sqlite3 to v11.7 — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4002" target="_blank" rel="noopener noreferrer" class="">#4002</a> Upload translations after changes are merged — thanks <a href="https://github.com/jfdoming" target="_blank" rel="noopener noreferrer" class="">jfdoming</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4042" target="_blank" rel="noopener noreferrer" class="">#4042</a> Add electron build files to eslint ignore list — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_SAay" id="actual-server">Actual Server<a href="https://actualbudget.org/blog/release-25.1.0#actual-server" class="hash-link" aria-label="Direct link to Actual Server" title="Direct link to Actual Server" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_SAay" id="enhancements-1">Enhancements<a href="https://actualbudget.org/blog/release-25.1.0#enhancements-1" class="hash-link" aria-label="Direct link to Enhancements" title="Direct link to Enhancements" translate="no">​</a></h4>
-<ul>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/506" target="_blank" rel="noopener noreferrer" class="">#506</a> Add GoCardless integration for ENTERCARD_SWEDNOKK — thanks <a href="https://github.com/kyrias" target="_blank" rel="noopener noreferrer" class="">kyrias</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/509" target="_blank" rel="noopener noreferrer" class="">#509</a> Add more logging for GoCardless rate limit information — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/510" target="_blank" rel="noopener noreferrer" class="">#510</a> GoCardless: <code>ISYBANK_ITBBITMM</code> should prefer valueDate over bookingDate — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/512" target="_blank" rel="noopener noreferrer" class="">#512</a> Enhances Hype Bank transaction info parsing — thanks <a href="https://github.com/guglicap" target="_blank" rel="noopener noreferrer" class="">guglicap</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/513" target="_blank" rel="noopener noreferrer" class="">#513</a> Add GoCardless integration for ABNAMRO_ABNANL2A — thanks <a href="https://github.com/nsulzer" target="_blank" rel="noopener noreferrer" class="">nsulzer</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/526" target="_blank" rel="noopener noreferrer" class="">#526</a> Better invalid password message when disabling openid — thanks <a href="https://github.com/lelemm" target="_blank" rel="noopener noreferrer" class="">lelemm</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/527" target="_blank" rel="noopener noreferrer" class="">#527</a> Commands to enable/disable OpenID from console. Also, enabling to login with oauth2 (for github). — thanks <a href="https://github.com/lelemm" target="_blank" rel="noopener noreferrer" class="">lelemm</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/528" target="_blank" rel="noopener noreferrer" class="">#528</a> Add Deutsche Kreditbank AG (DKB) (DKB_BYLADEM1) to the 90-days sync limited list — thanks <a href="https://github.com/zenminimalist" target="_blank" rel="noopener noreferrer" class="">zenminimalist</a></li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_SAay" id="bugfix-1">Bugfix<a href="https://actualbudget.org/blog/release-25.1.0#bugfix-1" class="hash-link" aria-label="Direct link to Bugfix" title="Direct link to Bugfix" translate="no">​</a></h4>
-<ul>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/523" target="_blank" rel="noopener noreferrer" class="">#523</a> Fixed OpenID authentication bug for Electron — thanks <a href="https://github.com/lelemm" target="_blank" rel="noopener noreferrer" class="">lelemm</a></li>
-</ul>
-<h4 class="anchor anchorTargetStickyNavbar_SAay" id="maintenance-1">Maintenance<a href="https://actualbudget.org/blog/release-25.1.0#maintenance-1" class="hash-link" aria-label="Direct link to Maintenance" title="Direct link to Maintenance" translate="no">​</a></h4>
-<ul>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/518" target="_blank" rel="noopener noreferrer" class="">#518</a> Add support for "FORTUNEO_FTNOFRP1XXX" to BANKS_WITH_LIMITED_HISTORY — thanks <a href="https://github.com/Sthaagg" target="_blank" rel="noopener noreferrer" class="">Sthaagg</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual-server/pull/524" target="_blank" rel="noopener noreferrer" class="">#524</a> Support for Node v22+, by upgrading the better-sqlite3 dependency. — thanks <a href="https://github.com/FliegendeWurst" target="_blank" rel="noopener noreferrer" class="">FliegendeWurst</a></li>
 </ul>]]></content:encoded>
             <category>announcement</category>
             <category>release</category>
