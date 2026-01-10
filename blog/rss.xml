@@ -4,7 +4,7 @@
         <title>Actual Budget Blog</title>
         <link>https://actualbudget.org/blog</link>
         <description>Stay updated with the latest blog posts from Actual Budget</description>
-        <lastBuildDate>Wed, 07 Jan 2026 08:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 12:00:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[Welcome to Actual Budget Open Source]]></title>
             <link>https://actualbudget.org/blog/welcome-actualbudget-os</link>
             <guid>https://actualbudget.org/blog/welcome-actualbudget-os</guid>
-            <pubDate>Wed, 07 Jan 2026 08:43:43 GMT</pubDate>
+            <pubDate>Sat, 10 Jan 2026 12:00:36 GMT</pubDate>
             <description><![CDATA[The new home for the Open Source project.]]></description>
             <content:encoded><![CDATA[<p>As some of you may have noticed a lot of the URL's for our documentation, official test instance of Actual Budget and other parts of the project have silently been changing over the last few days, we can now give you an update on why, we have taken the decision to move everything relating to the Open Source version of Actual Budget to <a href="https://actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">actualbudget.org</a> and this takes effect across the project with immediate effect, some of the changes you will see include;</p>
 <ul>
@@ -25,6 +25,24 @@
 <p>Talking of the blog, this change will introduce a blog feed, you can find that <a href="https://actualbudget.org/blog/rss.xml" target="_blank" rel="noopener noreferrer" class="">here</a> if you are looking for posts specific to releases you can have a look at the <a href="https://actualbudget.org/blog/tags/release" target="_blank" rel="noopener noreferrer" class="">release tag</a> historical releases will be added as posts over the coming days.</p>]]></content:encoded>
             <category>announcement</category>
             <category>coreproject</category>
+        </item>
+        <item>
+            <title><![CDATA[Reflecting on Your 2025 Finances]]></title>
+            <link>https://actualbudget.org/blog/actual-budget-wrapped-2025</link>
+            <guid>https://actualbudget.org/blog/actual-budget-wrapped-2025</guid>
+            <pubDate>Sat, 10 Jan 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[We created a small app to help you look back at your financial year — Actual Budget Wrapped 2025.]]></description>
+            <content:encoded><![CDATA[<p>As we step into 2026, it's natural to look back at the year that just passed. While many apps send you a "year in review" at the end of December, we thought it would be fun to create something special for Actual Budget users — a way to reflect on your financial journey throughout 2025.</p>
+<h2 class="anchor anchorTargetStickyNavbar_SAay" id="introducing-actual-budget-wrapped-2025">Introducing Actual Budget Wrapped 2025<a href="https://actualbudget.org/blog/actual-budget-wrapped-2025#introducing-actual-budget-wrapped-2025" class="hash-link" aria-label="Direct link to Introducing Actual Budget Wrapped 2025" title="Direct link to Introducing Actual Budget Wrapped 2025" translate="no">​</a></h2>
+<p>We've built a small web app that helps you visualize your financial story from the past year. <a href="https://wrapped.actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">Actual Budget Wrapped 2025</a> takes your Actual Budget data and transforms it into a personalized financial recap.</p>
+<p>Whether you want to see your biggest spending categories, track your income trends, or simply marvel at how many transactions you've managed — this tool gives you a different perspective on your financial data. Sometimes it's helpful to step back and see the bigger picture of where your money went throughout the year.</p>
+<p>The app is designed to be simple and privacy-focused. Your data stays in your browser and is processed locally. We don't collect or store any of your financial information — it's just between you and your Actual Budget file.</p>
+<h2 class="anchor anchorTargetStickyNavbar_SAay" id="why-reflect">Why Reflect?<a href="https://actualbudget.org/blog/actual-budget-wrapped-2025#why-reflect" class="hash-link" aria-label="Direct link to Why Reflect?" title="Direct link to Why Reflect?" translate="no">​</a></h2>
+<p>Looking back at your finances can be eye-opening. Maybe you'll discover patterns you weren't aware of, or perhaps you'll be pleasantly surprised by how much progress you've made toward your goals. Maybe you'll spot areas where you can improve, or celebrate wins you've forgotten about.</p>
+<p>Personal finance isn't just about numbers on a screen — it's about the choices we make, the goals we set, and the progress we track along the way. Sometimes taking a step back helps us appreciate how far we've come.</p>
+<p>So head over to <a href="https://wrapped.actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">wrapped.actualbudget.org</a> and take a few minutes to see your 2025 financial story. We hope it brings you some insights, or at the very least, a moment of reflection as you plan for the year ahead.</p>
+<p>Here's to making 2026 another great year for your finances!</p>]]></content:encoded>
+            <category>announcement</category>
         </item>
         <item>
             <title><![CDATA[Release 26.1.0]]></title>
@@ -1506,24 +1524,6 @@ We're listening — and we'll publish a summary of the feedback before moving fo
 <li class=""><a href="https://github.com/actualbudget/actual/pull/4483" target="_blank" rel="noopener noreferrer" class="">#4483</a> Publishing the docker images to the actual repo packages area in github — thanks <a href="https://github.com/MikesGlitch" target="_blank" rel="noopener noreferrer" class="">MikesGlitch</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/557" target="_blank" rel="noopener noreferrer" class="">#557</a> Dynamically load GoCardless handlers — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/560" target="_blank" rel="noopener noreferrer" class="">#560</a> Updating readme regarding the consolidation of the Actual-Server and Actual repos — thanks <a href="https://github.com/MikesGlitch" target="_blank" rel="noopener noreferrer" class="">MikesGlitch</a></li>
-</ul>]]></content:encoded>
-            <category>announcement</category>
-            <category>release</category>
-        </item>
-        <item>
-            <title><![CDATA[Release 25.2.1]]></title>
-            <link>https://actualbudget.org/blog/release-25.2.1</link>
-            <guid>https://actualbudget.org/blog/release-25.2.1</guid>
-            <pubDate>Thu, 06 Feb 2025 18:00:00 GMT</pubDate>
-            <description><![CDATA[New release of Actual.]]></description>
-            <content:encoded><![CDATA[<p>The primary intent of this release is to patch regressions that prevented the reports page from loading when the selected language was not English, and the desktop apps from working.</p>
-<p><strong>Docker tag: 25.2.1</strong></p>
-<h2 class="anchor anchorTargetStickyNavbar_SAay" id="actual">Actual<a href="https://actualbudget.org/blog/release-25.2.1#actual" class="hash-link" aria-label="Direct link to Actual" title="Direct link to Actual" translate="no">​</a></h2>
-<h4 class="anchor anchorTargetStickyNavbar_SAay" id="bugfix">Bugfix<a href="https://actualbudget.org/blog/release-25.2.1#bugfix" class="hash-link" aria-label="Direct link to Bugfix" title="Direct link to Bugfix" translate="no">​</a></h4>
-<ul>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4303" target="_blank" rel="noopener noreferrer" class="">#4303</a> Fix crashes on reports page with translations enabled — thanks <a href="https://github.com/jfdoming" target="_blank" rel="noopener noreferrer" class="">jfdoming</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4312" target="_blank" rel="noopener noreferrer" class="">#4312</a> Fix broken Weblate URL in settings if the language option has never been set — thanks <a href="https://github.com/matt-fidd" target="_blank" rel="noopener noreferrer" class="">matt-fidd</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/4317" target="_blank" rel="noopener noreferrer" class="">#4317</a> Fix Electron language support — thanks <a href="https://github.com/MikesGlitch" target="_blank" rel="noopener noreferrer" class="">MikesGlitch</a></li>
 </ul>]]></content:encoded>
             <category>announcement</category>
             <category>release</category>
