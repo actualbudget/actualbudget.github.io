@@ -4,7 +4,7 @@
         <title>Actual Budget Blog</title>
         <link>https://actualbudget.org/blog</link>
         <description>Stay updated with the latest blog posts from Actual Budget</description>
-        <lastBuildDate>Thu, 15 Jan 2026 18:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jan 2026 19:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[Welcome to Actual Budget Open Source]]></title>
             <link>https://actualbudget.org/blog/welcome-actualbudget-os</link>
             <guid>https://actualbudget.org/blog/welcome-actualbudget-os</guid>
-            <pubDate>Thu, 15 Jan 2026 18:04:35 GMT</pubDate>
+            <pubDate>Sun, 18 Jan 2026 19:27:49 GMT</pubDate>
             <description><![CDATA[The new home for the Open Source project.]]></description>
             <content:encoded><![CDATA[<p>As some of you may have noticed a lot of the URL's for our documentation, official test instance of Actual Budget and other parts of the project have silently been changing over the last few days, we can now give you an update on why, we have taken the decision to move everything relating to the Open Source version of Actual Budget to <a href="https://actualbudget.org/" target="_blank" rel="noopener noreferrer" class="">actualbudget.org</a> and this takes effect across the project with immediate effect, some of the changes you will see include;</p>
 <ul>
@@ -124,7 +124,7 @@
 <li class=""><a href="https://github.com/actualbudget/actual/pull/6299" target="_blank" rel="noopener noreferrer" class="">#6299</a> Fix no-unused-vars lint violations — thanks <a href="https://github.com/MatissJanis" target="_blank" rel="noopener noreferrer" class="">MatissJanis</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/6300" target="_blank" rel="noopener noreferrer" class="">#6300</a> Fix various lint issues — thanks <a href="https://github.com/MatissJanis" target="_blank" rel="noopener noreferrer" class="">MatissJanis</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/6301" target="_blank" rel="noopener noreferrer" class="">#6301</a> Fix more lint issues — thanks <a href="https://github.com/MatissJanis" target="_blank" rel="noopener noreferrer" class="">MatissJanis</a></li>
-<li class=""><a href="https://github.com/actualbudget/actual/pull/6307" target="_blank" rel="noopener noreferrer" class="">#6307</a> Automate the release to the flathub store — thanks <a href="https://github.com/MikesGlitch" target="_blank" rel="noopener noreferrer" class="">MikesGlitch</a></li>
+<li class=""><a href="https://github.com/actualbudget/actual/pull/6307" target="_blank" rel="noopener noreferrer" class="">#6307</a> Automate the release to the Flathub store — thanks <a href="https://github.com/MikesGlitch" target="_blank" rel="noopener noreferrer" class="">MikesGlitch</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/6312" target="_blank" rel="noopener noreferrer" class="">#6312</a> Port react rules from eslint to oxlint — thanks <a href="https://github.com/MatissJanis" target="_blank" rel="noopener noreferrer" class="">MatissJanis</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/6321" target="_blank" rel="noopener noreferrer" class="">#6321</a> Supply additional icon sizes to Mac desktop app for more tailored rendering — thanks <a href="https://github.com/MikesGlitch" target="_blank" rel="noopener noreferrer" class="">MikesGlitch</a></li>
 <li class=""><a href="https://github.com/actualbudget/actual/pull/6348" target="_blank" rel="noopener noreferrer" class="">#6348</a> Apply ESLint ignore rules to Oxfmt to prevent false positives when running 'npm lint' — thanks <a href="https://github.com/jgranick" target="_blank" rel="noopener noreferrer" class="">jgranick</a></li>
